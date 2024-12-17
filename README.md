@@ -1,4 +1,5 @@
 # Vrinda_Store_Analysis_by_using_Excel
+
 The Vrinda Store Analysis Dashboard provides a comprehensive overview of sales, orders, and customer behavior across various dimensions, such as geography, gender, age, and order channels. It highlights key performance metrics to help understand trends and identify opportunities for improvement.
 
 
@@ -6,40 +7,40 @@ The Vrinda Store Analysis Dashboard provides a comprehensive overview of sales, 
 
 1. Sales Insights:
 
-1.1 Top 5 States by Sales:
+Top 5 States by Sales:
 
 - Maharashtra leads with 2.99M.
 - Karnataka follows with 2.65M.
 - Uttar Pradesh, Telangana, and Tamil Nadu complete the top 5, with sales of 2.10M, 1.71M, and 1.68M, respectively.
 
-1.2 Sales by Gender:
+Sales by Gender:
 
 - Women contribute 64% of total sales.
 - Men account for 36%.
   
 2. Orders Breakdown:
 
-2.1 Age vs Gender:
+Age vs Gender:
 
-- Adults dominate orders:
+Adults dominate orders:
 Women: 34.59%
 Men: 15.47%
 
--Teenagers:
+Teenagers:
 Women: 21.13%
 Men: 9.20%
 
--Seniors:
+Seniors:
 Women: 5.91%
 Men: 13.70%
 
-2.2 Orders by Channel:
+Orders by Channel:
 
 - Amazon leads with 35% share of orders.
 - Myntra, Flipkart, Ajio contribute 23%, 22% and 6% respectively.
 - Nalli and Meesho contribute the same which is 5%
 
-2.3 Order Status:
+Order Status:
 
 - 92% of orders are delivered successfully.
 - Cancelled: 3%
@@ -47,11 +48,9 @@ Men: 13.70%
 - Refunded: 2%
 
 3. Trends Over Time:
-   
-3.1 Orders vs Sales:
 
-Sales peaked around March and April and gradually declined in subsequent months.
-Order count follows a similar trend, indicating seasonal peaks.
+-Sales peaked around March and April and gradually declined in subsequent months.
+-Order count follows a similar trend, indicating seasonal peaks.
 
 4. Filters Available:
    
