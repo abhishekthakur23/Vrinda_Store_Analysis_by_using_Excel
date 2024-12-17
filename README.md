@@ -70,3 +70,5 @@ Order Status:
 The Vrinda Store Analysis Dashboard delivers actionable insights into sales performance, customer demographics, order channels, and trends over time. It highlights the dominance of women in driving sales, the strong performance of Amazon as a sales channel, and Maharashtra as the top-performing state. Additionally, the seasonal peaks in sales offer opportunities for targeted marketing strategies.
 
 This report serves as a valuable tool for decision-makers to optimize performance, improve customer engagement, and drive growth.
+
+![Vrinda Store_Dashboard_Snap](https://github.com/user-attachments/assets/94be15a9-227c-42b3-9ce5-45ffd2bbae71)
