@@ -2,10 +2,7 @@
 
 The Vrinda Store Analysis Dashboard provides a comprehensive overview of sales, orders, and customer behavior across various dimensions, such as geography, gender, age, and order channels. It highlights key performance metrics to help understand trends and identify opportunities for improvement.
 
-
-# Report Graphs Overview
-
-1. Sales Insights:
+# Sales Insights:
 
 Top 5 States by Sales:
 
@@ -17,22 +14,25 @@ Sales by Gender:
 
 - Women contribute 64% of total sales.
 - Men account for 36%.
-  
-2. Orders Breakdown:
+
+# Orders Breakdown:
 
 Age vs Gender:
 
 Adults dominate orders:
-Women: 34.59%
-Men: 15.47%
+
+- Women: 34.59% 
+- Men: 15.47%
 
 Teenagers:
-Women: 21.13%
-Men: 9.20%
+
+- Women: 21.13%
+- Men: 9.20%
 
 Seniors:
-Women: 5.91%
-Men: 13.70%
+
+- Women: 5.91%
+- Men: 13.70%
 
 Orders by Channel:
 
@@ -47,18 +47,18 @@ Order Status:
 - Returned: 3%
 - Refunded: 2%
 
-3. Trends Over Time:
+# Trends Over Time:
 
--Sales peaked around March and April and gradually declined in subsequent months.
--Order count follows a similar trend, indicating seasonal peaks.
+- Sales peaked around March and April and gradually declined in subsequent months.
+- Order count follows a similar trend, indicating seasonal peaks.
 
-4. Filters Available:
+# Filters Available:
    
 - Channel: Flipkart, Meesho, Myntra, Nalli etc.
 - Category: Blouse, Bottom, Ethnic Dress, Kurta etc.
 - Month: January to May.
 
-5. Key Observations:
+# Key Observations:
 
 - Women dominate both sales and orders across multiple demographics.
 - Amazon holds the largest order channel share, suggesting its strong performance.
